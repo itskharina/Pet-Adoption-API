@@ -8,8 +8,8 @@
 ## Overview
   
 ### The challenge
-- This repository is created for the assignment as part of CFGdegree. The main goal of this project is to design and implement an API using Flask.
-- - In this assignment, GitHub will be utilized for version control and documentation.
+- This repository is created for the assignment as part of the CFGdegree. The main goal of this project is to design and implement an API using Flask. I'll be working independently.
+- In this assignment, GitHub will be utilized for version control and documentation.
 - I'll be storing files, tracking changes and issuing pull requests.
 
 ### Previous CFG Projects
@@ -30,5 +30,5 @@
 - Created a new branch for development using the `git checkout -b <branch-name>`. This creates and moves you to the new branch.
 - Added modified files to the branch using  `git add <file-name>`.
 - Used `git commit -m <message>` to commit my changes to the *local* repo within this new branch.
-(pull request stuff)
+(add pull request stuff)
   
