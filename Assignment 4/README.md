@@ -75,8 +75,13 @@ This Pet Adoption API is a simple RESTful API designed to manage pet adoption pr
    ```
    python app.py
    ```
+2. **Open a new terminal and run the main script**
 
-2. **Access the API**
+   ```
+   python main.py
+   ```
+   
+3. **Access the API**
 
    - The API will be accessible at `http://127.0.0.1:5000/`.
    - You can interact with the API using the Python console.
