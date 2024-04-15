@@ -78,6 +78,7 @@ This Pet Adoption API is a simple RESTful API designed to manage pet adoption pr
 2. **Open a new terminal and run the main script**
 
    ```
+   cd Homeworks/'Assignment 4'
    python main.py
    ```
    
