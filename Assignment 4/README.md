@@ -50,7 +50,7 @@ This Pet Adoption API is a simple RESTful API designed to manage pet adoption pr
 
    ```
     git clone https://github.com/itskharina/Homeworks.git
-    cd Homeworks
+    cd Homeworks/'Assignment 4'
    ```
 
 2. **Install Dependencies**
