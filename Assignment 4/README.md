@@ -26,7 +26,7 @@
 
 ## Overview
 
-This Pet Adoption API is a simple RESTful API designed to manage pet adoption processes for a pet shop. It allows users to view available pets, adopt a pet, and cancel an adoption. The API is built using Flask, a framework for Python, and interacts with a MySQL database to store and retrieve information about pets and adoptions.
+This Pet Adoption API is a simple RESTful API designed to manage pet adoption processes for a pet shop. It allows users to view available pets, adopt a pet, and cancel an adoption. The API is built using Flask, a framework for Python, and interacts with a MySQL database to store and retrieve information about pets and adoptions. In addition to the Flask API, this project also includes a console application for interacting with the pet shop directly from the command line.
 
 ## Features
 
