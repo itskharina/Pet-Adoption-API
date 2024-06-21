@@ -25,8 +25,7 @@ This Pet Adoption API is a simple RESTful API designed to manage pet adoption pr
 1. **Clone the Repository**
 
    ```
-    git clone https://github.com/itskharina/Homeworks.git
-    cd Homeworks/'Assignment 4'
+    git clone https://github.com/itskharina/Pet-Adoption-API.git
    ```
 
 2. **Install Dependencies**
